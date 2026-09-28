@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! 👋 I'm a Dutch CS student who likes turning random ideas into questionable amounts of code.<br><br>🎮 Game dev & GameMaker<br>🐍 Learning Python<br>🎵 Music nerd<br>💻 Currently building things, breaking things, figuring out why they broke, and (in the more important cases) fixing whatever broke.<br><br>Welcome to my little Gitcorner!<br>
+Hey! 👋 I'm a Dutch CS student who likes turning random ideas into questionable amounts of code.<br><br>🎮 Aspiring Game dev & GameMaker<br>🐍 Learning Python, GML, Lua, and more<br>🎵 Music nerd<br>💻 Currently building things, breaking things, figuring out why they broke, and (in the more important cases) fixing whatever broke.<br><br>Welcome to my little Gitcorner!<br>
 
 
 ## 🌐 Socials:
